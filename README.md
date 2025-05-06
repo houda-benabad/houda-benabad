@@ -8,7 +8,7 @@
   <span style="font-family: 'Fira Code'; font-size: 48px; color: #A855F7;">Hi, I'm Houda!</span>
 </h1>
 
-### a Software Engineer with a strong passion for problem-solving and continuous learning. I explore a wide range of technologies, constantly evolving my skills to adapt to new challenges. My focus is on creating efficient, scalable solutions and delivering quality results.
+a Software Engineer with a strong passion for problem-solving and continuous learning. I explore a wide range of technologies, constantly evolving my skills to adapt to new challenges. My focus is on creating efficient, scalable solutions and delivering quality results.
 
 <div style="display: inline-block; vertical-align: middle;">
   <h2 style="display: inline; margin: 0; font-weight: bold; font-size: 1.25rem;">Feel free to reach out to me:</h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZ3NWJpaGpwZ2lsZWk2cDE5amg5cXN3ZzNnZHNtNHdudGo4aXhrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p6ZVGS8zQbQIqH8G6l/giphy.gif" width="75" height="55">
